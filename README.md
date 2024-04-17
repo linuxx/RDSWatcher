@@ -19,7 +19,7 @@ RDS Watcher supports several command-line arguments to customize its behavior:
 - **/logpath [path]**: Specifies the path to save the log file. If not set, logging will be printed to the console.
 
 ```bash
-RDSWatcherPOC.exe /age 24 /limit 30 /24 50 /logpath "C:\\Logs\\RDSWatcher.log"
+RDSWatcherPOC.exe /age 24 /limit 30 /24 50 /logpath "C:\Logs\RDSWatcher.log"
 ```
 
 ## Future Enhancements

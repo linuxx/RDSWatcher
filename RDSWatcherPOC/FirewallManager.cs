@@ -80,11 +80,8 @@ namespace RDSWatcherPOC
             {
                 objLogger.Log($"Couldn't update firewall rules: " + ex.Message, Logger.LogType.Error);
             }
-            
-
 
         }
-
 
     }
 }
